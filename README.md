@@ -5,13 +5,21 @@ Trabalho Interdisciplinar - Aplicacões Web
 
 `CURSO`
 
+SI e ADS
+
 `SEMESTRE`
+
+1° Semestre
 
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
+- Igor Leal Soares
+- Rafael Lage Batista
+- Bianca Garcia
+- Pedro Arthur Silva Senra
+- Jhuan Neto Santos Pires
+
 
 > Inclua a lista dos membros da equipe com seus nomes completos.
 
